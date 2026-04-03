@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Mariane martins Santos, tenho 20 anos e sou natural de Sergipe. Sou graduanda do curso de Sistemas de Informação pela Universidade Federal de Sergipe. Tecnologia é minha paixão, o que me faz estar sempre em busca de novos desafios e conhecimento.
+Me chamo Mariane Martins Santos, tenho 20 anos e sou natural de Sergipe. Sou graduanda do curso de Sistemas de Informação pela Universidade Federal de Sergipe. Tecnologia é minha paixão, o que me faz estar sempre em busca de novos desafios e conhecimento.
 
 
 ---
